@@ -11,3 +11,5 @@ To install this project, simply clone this repository to your local machine:
 
 ## Usage
 To use the digital clock, simply open the index.html file in your web browser. The clock will automatically display the current time, and will update in real-time.
+
+<img src="Screenshot.png">
